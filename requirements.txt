@@ -7,3 +7,8 @@ tensorflow
 keras
 torch
 torchvision
+ultralytics #6 
+gdown
+PyYAML
+opencv-python
+albumentations 
