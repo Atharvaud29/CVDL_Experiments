@@ -7,3 +7,5 @@
 **3. Aim = To implement a Neural Network with one hidden layer using Python and NumPy for binary classification on the Make Moons dataset.**
 
 **4. Aim = To implement a Neural Network with one hidden layer.**
+
+**5. Aim = Implement the concept of regularization, gradient checking, optimization in CNN**
