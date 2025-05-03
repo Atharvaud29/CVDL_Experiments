@@ -12,3 +12,6 @@ gdown
 PyYAML
 opencv-python
 albumentations 
+mlflow #8
+xgboost
+imbalanced-learn
