@@ -10,6 +10,8 @@
 
 **5. Aim = Implement the concept of regularization, gradient checking, optimization in CNN**
 
+**6. Aim = Implement car detection model using yolo.**
+
 **7. Aim = Case study on recent deep learning applications.**
 
 **(NO)** **8. Aim = DevOps and MLOps implementation using Cloud.**
@@ -17,3 +19,8 @@
 **(NO)** **9. Aim = Implement a car detection model using CNN.**
 
 **10. Aim = Case Study on Image Processing based on Deep Learning.**
+
+### BDC Exp_9 :
+
+**Aim = Data visualization using R language.**
+
