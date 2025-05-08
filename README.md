@@ -14,3 +14,4 @@
 
  **(NO)** **8. Aim = DevOps and MLOps implementation using Cloud.**
 
+**10. Aim = Case Study on Image Processing based on Deep Learning.**
