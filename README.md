@@ -9,3 +9,8 @@
 **4. Aim = To implement a Neural Network with one hidden layer.**
 
 **5. Aim = Implement the concept of regularization, gradient checking, optimization in CNN**
+
+**7. Aim = Case study on recent deep learning applications.**
+
+ **(NO)** **8. Aim = DevOps and MLOps implementation using Cloud.**
+
